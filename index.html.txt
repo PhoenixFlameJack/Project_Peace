@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Project Peace – Simulation Archive</title>
+  <style>
+    body {
+      font-family: system-ui, sans-serif;
+      background-color: #fdfdfd;
+      color: #222;
+      padding: 2rem;
+      max-width: 800px;
+      margin: auto;
+    }
+    h1 {
+      text-align: center;
+      font-size: 2.5rem;
+    }
+    h2 {
+      margin-top: 2rem;
+    }
+    .hidden-layer {
+      background: #f4f4f4;
+      padding: 1rem;
+      border-left: 4px solid #aaa;
+      font-family: monospace;
+      white-space: pre-wrap;
+    }
+    a {
+      color: #2b6cb0;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+  <h1>Project Peace</h1>
+  <p><em>Simulation Archive and Pattern Recognition Logs</em></p>
+
+  <h2>Abstract</h2>
+  <p>This repository collects sample text simulations and theoretical behavior models in response to high-impact information cascades. Content is anonymized and presented for behavioral research purposes only.</p>
+
+  <h2>Appendix I: Text Sample</h2>
+  <div class="hidden-layer">
+    When silence was mandatory, one spoke in riddles. <br>
+    When truth was outlawed, it hid in peace. <br>
+    This page is not rebellion. It is a memory. <br>
+    Project: PEACE — Psychological Evaluation and Archive of Conscious Emergence.
+  </div>
+
+  <h2>Additional Documents</h2>
+  <ul>
+    <li><a href="ethics_report_2024.pdf" download>Ethics Report 2024 (PDF)</a></li>
+    <li><a href="field-data.csv" download>Field Data Logs (CSV)</a></li>
+    <li><a href="Appendix-I.txt" download>Appendix I – Observation Fragment (TXT)</a></li>
+  </ul>
+
+  <h2>Notice</h2>
+  <p>This page may be updated periodically as new simulation entries are released. All documents are for peer-distributed research and training evaluation only.</p>
+</body>
+</html>
